@@ -9,7 +9,7 @@
     },
     "dean": {
       "password_hash": "f89767726a7827c6f785b40aee1ca2ade74d951d6a2d50e27cc0f0e5072a12b2",
-      "enabled": true,
+      "enabled": false,
       "hwid_lock_enabled": false,
       "hwid": null,
       "note": "John's account — password is 'password123'"
