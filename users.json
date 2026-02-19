@@ -7,12 +7,12 @@
       "hwid": null,
       "note": "John's account — password is 'password123'"
     },
-    "exampleuser": {
-      "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "dean": {
+      "password_hash": "f89767726a7827c6f785b40aee1ca2ade74d951d6a2d50e27cc0f0e5072a12b2",
       "enabled": true,
-      "hwid_lock_enabled": true,
+      "hwid_lock_enabled": false,
       "hwid": null,
-      "note": "HWID lock ON — will auto-bind on first login, then locked to that machine"
+      "note": "John's account — password is 'password123'"
     },
     "banneduser": {
       "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
