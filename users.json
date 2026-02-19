@@ -1,0 +1,25 @@
+{
+  "users": {
+    "john": {
+      "password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+      "enabled": true,
+      "hwid_lock_enabled": false,
+      "hwid": null,
+      "note": "John's account — password is 'password123'"
+    },
+    "exampleuser": {
+      "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "enabled": true,
+      "hwid_lock_enabled": true,
+      "hwid": null,
+      "note": "HWID lock ON — will auto-bind on first login, then locked to that machine"
+    },
+    "banneduser": {
+      "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+      "enabled": false,
+      "hwid_lock_enabled": false,
+      "hwid": null,
+      "note": "Account disabled"
+    }
+  }
+}
