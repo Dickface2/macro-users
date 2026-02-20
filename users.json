@@ -14,6 +14,13 @@
       "hwid": null,
       "note": "John's account — password is 'password123'"
     },
+    "zein": {
+      "password_hash": "8e1fac14b9f358ce3c87deafa006f080241ba510a3829737d428bf60d713b927",
+      "enabled": true,
+      "hwid_lock_enabled": false,
+      "hwid": null,
+      "note": "John's account — password is 'password123'"
+    },
     "banneduser": {
       "password_hash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
       "enabled": false,
